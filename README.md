@@ -33,6 +33,7 @@
 
 ## 背景
 
-綠活地圖的前身是「全港分區綠色生活地圖」（www.hkgreenmap.org），由一班有心推動和實踐綠色生活的志願者組成，是開放式，全民參與的 crowdsourcing 和 co-creation 協作項目。成員來自各行各業和背景，包括大學導師̖̖、社企老闆、資深綠色達人、設計師、社工、學生、教師、文員、家庭主婦等。當中有本身相識的，也有素未謀面，因為製作地圖而結識的。
+綠活地圖的前身是「全港分區綠色生活地圖」（[hkgreenmap.org][hkgreenmap]），由一班有心推動和實踐綠色生活的志願者組成，是開放式，全民參與的 crowdsourcing 和 co-creation 協作項目。成員來自各行各業和背景，包括大學導師̖̖、社企老闆、資深綠色達人、設計師、社工、學生、教師、文員、家庭主婦等。當中有本身相識的，也有素未謀面，因為製作地圖而結識的。
 
 [wherevergreen]: https://wherevergreen.hk/
+[hkgreenmap]: http://www.hkgreenmap.org
